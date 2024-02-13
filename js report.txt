@@ -1,0 +1,4 @@
+Day1:  
+Hey there! This is the day1 report of what I learned about JavaScript. I started by learning the language's application in enhancing website functionalities. The initial focus was on the fundamental features of javascript and for what the purposes of the features and then I delved into the basic data type elements such as strings (representing words), numbers, and boolean values, laying the groundwork for a broader understanding.
+So for the upcoming days my strategy will be to learn the different functions of javascript and practice the concepts i have learned using either projects or questions.
+
