@@ -2,3 +2,5 @@ Day1:
 Hey there! This is the day1 report of what I learned about JavaScript. I started by learning the language's application in enhancing website functionalities. The initial focus was on the fundamental features of javascript and for what the purposes of the features and then I delved into the basic data type elements such as strings (representing words), numbers, and boolean values, laying the groundwork for a broader understanding.
 So for the upcoming days my strategy will be to learn the different functions of javascript and practice the concepts i have learned using either projects or questions.
 
+Day2:
+Hey there!Day 2 of my JavaScript exploration delved deeper into data types, expanding on the foundations laid on Day 1. Today's focus centered on refining my understanding of datatypes and its uses in javascript.Additionally, I also started learning about variables in JavaScript and the different ways to declare them.So for the upcoming days my strategy will be to utilize my current knoiwledge of datatypes and variables to solve few basic problems and use these to learn further new concepts.
