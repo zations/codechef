@@ -4,3 +4,7 @@ So for the upcoming days my strategy will be to learn the different functions of
 
 Day2:
 Hey there!Day 2 of my JavaScript exploration delved deeper into data types, expanding on the foundations laid on Day 1. Today's focus centered on refining my understanding of datatypes and its uses in javascript.Additionally, I also started learning about variables in JavaScript and the different ways to declare them.So for the upcoming days my strategy will be to utilize my current knoiwledge of datatypes and variables to solve few basic problems and use these to learn further new concepts.
+ 
+Day3:
+Hello!this is Day 3 of my JavaScript report. As it was a busy day for me today ,so I dedicated my time to revising and clarifying doubts on the concepts I covered in the previous two days. This revision proved beneficial in improving my understanding of data types, variables, and the foundational aspects of JavaScript.While I didn't learn any  new material today I'm eager to start learning new conceptsnfrom tomorrow.
+
