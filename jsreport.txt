@@ -8,3 +8,11 @@ Hey there!Day 2 of my JavaScript exploration delved deeper into data types, expa
 Day3:
 Hello!this is Day 3 of my JavaScript report. As it was a busy day for me today ,so I dedicated my time to revising and clarifying doubts on the concepts I covered in the previous two days. This revision proved beneficial in improving my understanding of data types, variables, and the foundational aspects of JavaScript.While I didn't learn any  new material today I'm eager to start learning new conceptsnfrom tomorrow.
 
+Day4:
+Hey there! due to health issue I took a 2 day break from my learning and so its technically day 6 but enetring the report as day 4 so today i covered the topics about conditional loops and their types. Also practiced few probelms based on previous days concepts of datatypes and operator. The plan for the next few days will be to learn abt looping statements and also practice problems based on those concepts.
+
+Day5:
+Hello! this is day 5 of my js report so today as mentioned in previous report i focuse on learning the looping statements in javascript and also still continued practicing problems based on the basic concepts I have learned 
+and clarifying doubts that occured while practicing.
+
+
